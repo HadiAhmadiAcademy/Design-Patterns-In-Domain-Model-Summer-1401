@@ -14,9 +14,14 @@ namespace BasketSample
         {
             //....
             //....
-            this.TotalPrice -= strategy.Calculate(this.TotalPrice); 
+            // if (strategy != null)
+            this.TotalPrice -= strategy.Calculate(this.TotalPrice);
             //....
             //....
+        }
+        public void ApplyDiscount()
+        {
+            ApplyDiscount(NoDiscount.Instance);
         }
     }
 }
