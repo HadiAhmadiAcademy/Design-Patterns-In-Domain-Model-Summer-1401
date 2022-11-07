@@ -8,5 +8,10 @@ namespace CompositeSpecificationDemo.Leafs
         {
             return entity == 0;
         }
+        
+        public override void Accept(ISpecificationVisitor<long> visitor)
+        {
+            visitor.Visit(this);
+        }
     }
 }

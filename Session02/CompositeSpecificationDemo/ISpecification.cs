@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace CompositeSpecificationDemo
+﻿namespace CompositeSpecificationDemo
 {
     public interface ISpecification<T>
     {
