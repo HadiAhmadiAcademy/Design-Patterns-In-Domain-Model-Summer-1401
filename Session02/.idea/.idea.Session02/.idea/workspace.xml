@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9ae17e67-b83e-4a3f-8743-15a9afb0e2ce" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../Session02-exercise.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Session02-exercise/CompositeDemo.Tests/CompositeDemo.Tests.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Session02-exercise/CompositeDemo.Tests/UnitTest1.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Session02-exercise/CompositeDemo/CompositeDemo.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Session02-exercise/CompositeDemo/FileSystemItem.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Session02-exercise/CompositePattern3/CompositePattern3.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Session02-exercise/CompositePattern3/Package.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Session02-exercise/CompositeSpecficationPattern/Class1.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Session02-exercise/CompositeSpecficationPattern/CompositeSpecficationPattern.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Session02-exercise/CompositeSpecificationDemo.Tests/CompositeSpecificationDemo.Tests.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Session02-exercise/CompositeSpecificationDemo.Tests/FarsiTextGeneratorSpecificationVisitorTests.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Session02-exercise/CompositeSpecificationDemo.Tests/SqlExpressionGeneratorSpecificationVisitorTests.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Session02-exercise/CompositeSpecificationDemo/CompositeSpecificationDemo.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Session02-exercise/CompositeSpecificationDemo/Composites/AndSpecification.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Session02-exercise/CompositeSpecificationDemo/Composites/NotSpecification.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Session02-exercise/CompositeSpecificationDemo/Composites/OrSpecification.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Session02-exercise/CompositeSpecificationDemo/Composites/Specification.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Session02-exercise/CompositeSpecificationDemo/ISpecification.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Session02-exercise/CompositeSpecificationDemo/ISpecificationVisitor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Session02-exercise/CompositeSpecificationDemo/Leafs/EvenNumbers.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Session02-exercise/CompositeSpecificationDemo/Leafs/IsZeroSpecification.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Session02-exercise/CompositeSpecificationDemo/Leafs/PositiveNumbers.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Session02-exercise/CompositeSpecificationDemo/StringExtensions.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Session02-exercise/CompositeSpecificationDemo/Visitors/EnglishTextGeneratorSpecificationVisitor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Session02-exercise/CompositeSpecificationDemo/Visitors/ExcelExpressionGeneratorSpecificationVisitor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Session02-exercise/CompositeSpecificationDemo/Visitors/FarsiTextGeneratorSpecificationVisitor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Session02-exercise/CompositeSpecificationDemo/Visitors/SqlExpressionGeneratorSpecificationVisitor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Session02-exercise/Session02.sln" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CompositeSpecificationDemo.Tests/EnglishTextGeneratorSpecificationVisitorTests.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CompositeSpecificationDemo.Tests/ExcelExpressionGeneratorSpecificationVisitorTests.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CompositeSpecificationDemo.Tests/FarsiTextGeneratorSpecificationVisitorTests.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CompositeSpecificationDemo.Tests/SqlExpressionGeneratorSpecificationVisitorTests.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CompositeSpecificationDemo/ISpecificationVisitor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CompositeSpecificationDemo/StringExtensions.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CompositeSpecificationDemo/Visitors/EnglishTextGeneratorSpecificationVisitor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CompositeSpecificationDemo/Visitors/ExcelExpressionGeneratorSpecificationVisitor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CompositeSpecificationDemo/Visitors/FarsiTextGeneratorSpecificationVisitor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CompositeSpecificationDemo/Visitors/NaturalLanguageExpressionGeneratorSpecificationVisitorBase.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CompositeSpecificationDemo/Visitors/SqlExpressionGeneratorSpecificationVisitor.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Session04-exercise.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Session04/Sales.Tests/Sales.Tests.csproj" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Session04/Sales.Tests/UnitTest1.cs" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Session04/Sales/SalesGroupBuilder.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/../.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CompositeSpecificationDemo.Tests/CompositeSpecificationDemo.Tests.csproj" beforeDir="false" afterPath="$PROJECT_DIR$/CompositeSpecificationDemo.Tests/CompositeSpecificationDemo.Tests.csproj" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CompositeSpecificationDemo.Tests/UnitTest1.cs" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/CompositeSpecificationDemo/Composites/AndSpecification.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CompositeSpecificationDemo/Composites/AndSpecification.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CompositeSpecificationDemo/Composites/NotSpecification.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CompositeSpecificationDemo/Composites/NotSpecification.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CompositeSpecificationDemo/Composites/OrSpecification.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CompositeSpecificationDemo/Composites/OrSpecification.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CompositeSpecificationDemo/Composites/Specification.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CompositeSpecificationDemo/Composites/Specification.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CompositeSpecificationDemo/ISpecification.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CompositeSpecificationDemo/ISpecification.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CompositeSpecificationDemo/Leafs/EvenNumbers.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CompositeSpecificationDemo/Leafs/EvenNumbers.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CompositeSpecificationDemo/Leafs/IsZeroSpecification.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CompositeSpecificationDemo/Leafs/IsZeroSpecification.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/CompositeSpecificationDemo/Leafs/PositiveNumbers.cs" beforeDir="false" afterPath="$PROJECT_DIR$/CompositeSpecificationDemo/Leafs/PositiveNumbers.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Session04/Sales/SalesGroup.cs" beforeDir="false" afterPath="$PROJECT_DIR$/../Session04/Sales/SalesGroup.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Session04/Session04.sln" beforeDir="false" afterPath="$PROJECT_DIR$/../Session04/Session04.sln" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$APPLICATION_CONFIG_DIR$/resharper-host/DecompilerCache/decompiler/693c6d998c0d40f29d2867f596ec363691e590/16/13a9b77c/String.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="KubernetesApiPersistence">
+    <option name="context" value="minikube" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2E4KWYXTSL98FVe3n6k04DuB0Fa" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="autoscrollToSource" value="true" />
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "settings.editor.selected.configurable": "preferences.sourceCode.C#",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9ae17e67-b83e-4a3f-8743-15a9afb0e2ce" name="Changes" comment="" />
+      <created>1661849452067</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1661849452067</updated>
+      <workItem from="1661849477341" duration="1327000" />
+      <workItem from="1661873930935" duration="17713000" />
+      <workItem from="1662233892134" duration="14525000" />
+      <workItem from="1662453434880" duration="80000" />
+      <workItem from="1662453646566" duration="12981000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="UnitTestsCoverage.Settings">
+    <option name="coveragePercentColumnWidth" value="188" />
+    <option name="sortOrder" value="DESCENDING" />
+    <option name="sortedColumn" value="1" />
+    <option name="symbolColumnWidth" value="332" />
+    <coverage-tree-state>
+      <expand />
+      <select />
+    </coverage-tree-state>
+  </component>
+  <component name="UnityCheckinConfiguration" checkUnsavedScenes="true" />
+  <component name="UnityProjectConfiguration" hasMinimizedUI="false" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <option name="LOCAL_CHANGES_DETAILS_PREVIEW_SHOWN" value="false" />
+    <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="DotNet Breakpoints">
+          <url>file://$PROJECT_DIR$/CompositeSpecificationDemo/Visitors/EnglishTextGeneratorSpecificationVisitor.cs</url>
+          <line>23</line>
+          <properties documentPath="C:\Users\Amir\home\dlz\hadi-ahmadi-dp\Design-Patterns-In-Domain-Model-Summer-1401\Session02\CompositeSpecificationDemo\PersianTextGeneratorSpecificationVisitor.cs" initialLine="16" containingFunctionPresentation="property 'AndExpression'">
+            <startOffsets>
+              <option value="1233" />
+            </startOffsets>
+            <endOffsets>
+              <option value="1337" />
+            </endOffsets>
+          </properties>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="RiderUnitTests">
+        <watch expression="((CompositeSpecificationDemo.SqlQuerySpecificationVisitor&lt;long&gt;) visitor)._sqlText" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
