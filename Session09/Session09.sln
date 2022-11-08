@@ -1,0 +1,53 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31205.134
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ChainOnComposite", "ChainOnComposite\ChainOnComposite.csproj", "{EC70264F-65BD-4505-9D95-12BF43F37B46}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ChainOnCompositeSample", "ChainOnCompositeSample", "{0117A7F1-0088-4C41-BC67-ACCA85DDC567}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SensorSample", "SensorSample", "{60326AB9-9054-444A-B52F-46313B0EC943}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SensorObserverSample", "SensorObserverSample\SensorObserverSample.csproj", "{F05F5A12-6E06-4E52-85C2-E81A9097EA19}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ObserverPullModelSample", "ObserverPullModelSample\ObserverPullModelSample.csproj", "{DE322FED-857F-45CD-9E61-D2F5899E9A90}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CompositeObservable", "CompositeObservable\CompositeObservable.csproj", "{3DDD2B50-FF3A-480E-BF16-93C1C439A897}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EC70264F-65BD-4505-9D95-12BF43F37B46}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EC70264F-65BD-4505-9D95-12BF43F37B46}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EC70264F-65BD-4505-9D95-12BF43F37B46}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EC70264F-65BD-4505-9D95-12BF43F37B46}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F05F5A12-6E06-4E52-85C2-E81A9097EA19}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F05F5A12-6E06-4E52-85C2-E81A9097EA19}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F05F5A12-6E06-4E52-85C2-E81A9097EA19}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F05F5A12-6E06-4E52-85C2-E81A9097EA19}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DE322FED-857F-45CD-9E61-D2F5899E9A90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DE322FED-857F-45CD-9E61-D2F5899E9A90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DE322FED-857F-45CD-9E61-D2F5899E9A90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DE322FED-857F-45CD-9E61-D2F5899E9A90}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3DDD2B50-FF3A-480E-BF16-93C1C439A897}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3DDD2B50-FF3A-480E-BF16-93C1C439A897}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3DDD2B50-FF3A-480E-BF16-93C1C439A897}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3DDD2B50-FF3A-480E-BF16-93C1C439A897}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EC70264F-65BD-4505-9D95-12BF43F37B46} = {0117A7F1-0088-4C41-BC67-ACCA85DDC567}
+		{F05F5A12-6E06-4E52-85C2-E81A9097EA19} = {60326AB9-9054-444A-B52F-46313B0EC943}
+		{DE322FED-857F-45CD-9E61-D2F5899E9A90} = {60326AB9-9054-444A-B52F-46313B0EC943}
+		{3DDD2B50-FF3A-480E-BF16-93C1C439A897} = {60326AB9-9054-444A-B52F-46313B0EC943}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3E9F55A7-61BA-4A03-8173-15F2105B203B}
+	EndGlobalSection
+EndGlobal
