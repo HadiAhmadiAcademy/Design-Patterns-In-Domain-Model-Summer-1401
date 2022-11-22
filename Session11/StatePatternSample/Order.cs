@@ -4,7 +4,7 @@ namespace StatePatternSample
 {
     public class Order
     {
-        public OrderState State { get; private set; }           //Enumerate Constant
+        public OrderState State { get; private set; }
         public Order()
         {
             this.State = OrderState.InitialState();
@@ -24,6 +24,7 @@ namespace StatePatternSample
         {
             //if (this.state.CanCancel())
             //      this.state = new Cancelled();
+            this.State = OrderStateFactory.Create<Cancelled>();
         }
     }
 }

@@ -4,20 +4,19 @@
     {
         public static OrderState InitialState()
         {
-            return new Draft();
+            return OrderStateFactory.Create<Draft>();
         }
         public abstract bool CanModify();
     }
-    public class Confirmed : OrderState
+    internal class Confirmed : OrderState
     {
         public override bool CanModify() => false;
     }
-    public class Draft : OrderState             //2
+    internal class Draft : OrderState
     {
         public override bool CanModify() => true;
-       
     }
-    public class Cancelled : OrderState         //3
+    internal class Cancelled : OrderState
     {
         public override bool CanModify() => false;
     }
