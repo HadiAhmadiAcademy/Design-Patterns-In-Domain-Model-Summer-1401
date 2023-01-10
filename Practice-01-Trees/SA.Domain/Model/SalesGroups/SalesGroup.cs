@@ -5,8 +5,6 @@ namespace SA.Domain.Model.SalesGroups
 {
     public class SalesGroup : AggregateRoot<long>
     {
-        //.........
-        //.........
         public SalesUnit Members { get; private set; }
         public SalesGroupStructurePolicy Policies { get; private set; }
         public SalesGroup(SalesUnit root)
